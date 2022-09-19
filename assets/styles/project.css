@@ -4113,10 +4113,10 @@ width: 100%;
   }
   .sol{
     font-weight: bold;
-    font-size: 60px;
+    font-size: 32px;
   }
   .icon-ma{
-    margin-left: 80px;
+    margin-left: 3px;
   }
   .nhi{
     height: 1617px;
@@ -4152,7 +4152,7 @@ padding-right: 18px;
         border-radius: 10px;
         margin-right: 1.5rem;
         display: flex;
-        width: 124px;
+        width: 293px;
         height: 140px;
         padding: 1.8rem 2.5rem;
         flex-direction: column;
