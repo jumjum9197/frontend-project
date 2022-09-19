@@ -2529,7 +2529,7 @@ line-height: 1.5;
   height: 200px;
   width: 150px;
  
-    width: 80%;
+    width: 39%;
     height: 100%;
     object-fit: cover;
     border-top-right-radius: 10px;
@@ -2607,10 +2607,13 @@ text-align: left;
 .allsection{
   width: 100%;
 }
+.mama{
+  height: 200px;
+}
 
 .subm{
-  margin-top: 10px;
-  margin-left: 850px ;
+  margin-top: 29px;
+  margin-left: 499px ;
 }
 .form-control, .cid-st2NOe6GUd .field-input {
   padding: 1rem 1.5rem;
@@ -2629,7 +2632,7 @@ text-align: left;
   flex-wrap: wrap;
   margin-right: -5px;
   margin-left: -5px;
-  width: 80%;
+  width: 100%;
 }
 .dispy2{
 font-family: 'DM Sans', sans-serif;
@@ -2650,13 +2653,15 @@ align8{
   padding: 6rem 4rem;
   border-radius: 10px;
   margin: 0 1rem;
+  width: 95%;
+  height: 631px;
 }
 
 .sev8{
   padding-top: 90px;
   padding-bottom: 120px;
   background-color: #ffffff;
-  height: 740px;
+  height: 821px;
   width: 100%;
  
 }
@@ -2839,7 +2844,7 @@ align8{
   margin-right: 10px;
 }
 .kil{
-  margin-left: 103px;
+  margin-left: 6px;
   
 }
   .cus-nav{
@@ -3012,19 +3017,19 @@ width: 100%;
   }
   .sectionthree{
     background: #efefef;
-    height: 700px;
+    height: 1161px;
     width: 100%;
 
   }
   .sectionseven{
     background: #efefef;
-    height: 700px;
+    height: 1149px;
     width: 100%;
 
   }
   .sectionthree3{
     background: #efefef;
-    height: 600px;
+    height: 970px;
     width: 100%;
 
   }
@@ -3054,12 +3059,13 @@ width: 100%;
         border-radius: 10px;
         margin-right: 1.5rem;
         display: flex;
-        width: 150px;
+        width: 187px;
         height: 140px;
         padding: 1.8rem 2.5rem;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-left: 19px;
       
   }
   .diss{
@@ -3092,7 +3098,7 @@ width: 100%;
   }
   .con{
     background-color: white;
-    height: 350px;
+    height: 708px;
   }
 .goal{
 font-size: 18px;
@@ -3100,7 +3106,7 @@ font-size: 18px;
   font-family: 'DM Sans',sans-serif;
   text-align: left;
   font-style: normal;
-  padding-left: 100px;
+ 
   padding-right: 100px;
 
 
@@ -3118,7 +3124,7 @@ font-size: 18px;
     font-family: 'DM Sans',sans-serif;
     text-align: left;
     font-style: normal;
-    padding-left: 76px;
+
     padding-right: 98px;
   
 }
@@ -3138,11 +3144,11 @@ font-size: 18px;
   box-shadow: 0px 16px 32px 0px #0000000a;
 }
 .mack{
-  margin-left: 122px;
+  margin-left: 2px;
  
 }
 .marrk{
-  margin-left: -27px;
+  margin-left: 208px;
 }
 .imgbox{
   width:348px ;
@@ -3183,12 +3189,11 @@ border-bottom-left-radius: 10px;
 .card-wrapper {
   display: flex;
   background: white;
-  padding: 4rem;
   border-radius: 10px;
   margin-top: 150px;
   overflow: hidden;
-  height: 400px;
-  width: 80%;
+  height: 485px;
+  width: 81%;
   margin-left: 10%;
   
  
@@ -3253,7 +3258,7 @@ line-height: 1.5;
   text-align: center;
  }
 .male{
-  margin-left: 110px;
+  margin-left: 27px;
 }
 .male2{
   margin-left: 64px;
@@ -3299,7 +3304,7 @@ width: 137px;
 height: 60px;
 }
 .male4{
-  margin-left: -30px;
+  margin-left: 66px;
 }.poi{
   word-break: break-word;
 word-wrap: break-word;
@@ -3687,6 +3692,8 @@ font-size: 16px;
 }
 .ava{
   text-align: center;
+  margin-top: 60px;
+  margin-bottom: -72px;
 }
 .mik{
   margin-left: -25px;
@@ -3714,8 +3721,8 @@ border-bottom-left-radius: 10px;
   height: 230px;
 }
 .sectionsevenswee{
-  height: 370px;
-  padding-top: 60px;
+  height: 605px;
+  padding-top: 19px;
 }
 .mistake{
   height: 950px;
