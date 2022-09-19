@@ -4104,11 +4104,11 @@ width: 100%;
     width: 100%;
 
   }
-  .sec-3-gx {
+  .sec-3-gx  {
     margin-top: 73px;
-    margin-left: -80px;
+    margin-left: -8px;
     border-radius: 2%;
-    width: 440px;
+    width: 347px;
     height: 540px;
   }
   .sol{
@@ -4152,7 +4152,7 @@ padding-right: 18px;
         border-radius: 10px;
         margin-right: 1.5rem;
         display: flex;
-        width: 132px;
+        width: 124px;
         height: 140px;
         padding: 1.8rem 2.5rem;
         flex-direction: column;
@@ -4192,7 +4192,7 @@ padding-right: 18px;
   }
   .con{
     background-color: white;
-    height: 587px;
+    height: 673px;
   }
 .goal{
 font-size: 16px;
@@ -4233,7 +4233,7 @@ font-size: 16px;
   text-align: center;
 }
 .mik{
-  margin-left: -42px;
+  margin-left: 1px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -4258,7 +4258,7 @@ border-bottom-left-radius: 10px;
   height: 200px;
 }
 .sectionsevenswee{
-  height: 370px;
+  height: 600px;
   padding-top: 60px;
 }
 .mistake{
