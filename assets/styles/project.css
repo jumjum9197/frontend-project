@@ -4106,7 +4106,7 @@ width: 100%;
   }
   .sec-3-gx  {
     margin-top: 73px;
-    margin-left: -8px;
+    margin-left: -10px;
     border-radius: 2%;
     width: 347px;
     height: 540px;
@@ -4136,7 +4136,7 @@ padding-right: 18px;
   .nhar{
     width: 90%;
     transform: scaleY(1);
-    margin: auto;
+    margin-right: 10px;
   }
   .ntex{
     text-align: center;
@@ -4222,7 +4222,7 @@ font-size: 16px;
   box-shadow: 0px 16px 32px 0px #0000000a;
 }
 .mack{
-  margin-left: 6px;
+  margin-left: 2px;
  
 }
 .marrk{
